@@ -9,6 +9,7 @@
 
 - 100$ a year fee for an app on the appstore
 - Code on a mac emulator or on visual studio?
+- we can also use react native or some other language to code an app, but swift is easier for apple based applications (which we are doing) so are we sure we want to use swift?
 
 
 # Useful links/information/tools
