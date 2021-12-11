@@ -19,3 +19,6 @@ http://online.swiftplayground.run/
 
 https://www.youtube.com/watch?v=FcsY1YPBwzQ
 - a decent tutorial on swift I have been watching
+
+https://flutter.dev/
+- download this, its an app sdk
