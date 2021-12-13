@@ -1,1 +1,5 @@
-https://www.aioboot.com/en/macos-vmware-workstation/
+# VMWare or VirtualBox?
+ - Prob virtualbox but we'll see
+
+# TODO
+ - Basic life counter (2 player support, default starting at 20 health, just basically something that works
