@@ -8,4 +8,4 @@
  - Don't know
 
 ## COMPLETED
- - Basic website file:///C:/Users/mizuk/OneDrive/Documents/Website/index.html
+ - Basic website 
