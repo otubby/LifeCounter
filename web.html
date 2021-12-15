@@ -55,19 +55,51 @@ a:hover, a:active {
 <link rel="icon" href="L C.png" type = "image/x-icon">
 </head>
 <body style="background-color:#323437; font-family: Roboto Mono;">
-<!-- div align in center -->
+
+
+
+<!-- Menu Bar -->
 <div id="menubar">
 <ul style="font-family: Roboto Mono;"><li><a href=./index.html>Home</a></li>
   <li><a href=./download.html>Download</a></li>
   <li><a href=./web.html>Web Version</a></li>
-  <li><a href=”youtube.com”>Feedback</a></li>
+  <li><a href=./feedback.html>Feedback</a></li>
   <li><a href=./about.html>About</a></li>
   <li><a href=./donate.html>Donate</a></li>
 </ul>
+
+
+<!--Title-->
 <center> 
     <h1 style="font-family:Helvetica; color: rgb(236, 148, 16); " > Web Version </h1>
   </center>
 </div>
+
+<script>  
+class player {
+    constructor(){
+        var myHealth = 20;
+    }
+    takeDamage(){
+        myHealth = myHealth - 1;
+    }
+    gainHealth(){
+        myHealth = myHealth + 1;
+    }
+}
+
+class reset{
+    constructor(){
+
+    }
+}
+
+let player1 = new player();
+let player2 = new player();
+</script>  
+
+
+<!--Footer-->
 <center>
     <footer style="position: relative; width: 200px; height: 1000px;">    
       <center>
