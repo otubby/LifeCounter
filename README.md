@@ -8,4 +8,4 @@
  - Don't know
 
 ## COMPLETED
- - Basic website; https://otubby.github.io/MTGlifecounter/index.html
+ - Basic website; https://otubby.github.io/LifeCounter/index.html
